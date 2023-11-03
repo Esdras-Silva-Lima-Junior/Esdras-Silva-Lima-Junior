@@ -1,4 +1,3 @@
-# <p align="center">About Me</p>
 ## 🤓 Hello, I am Esdras Silva and I'm currently learning programming, and I'm still studying Bachelor of Computer Science at UNINOVE.  
 
 <p align="center">🖥️ I'm currently working on nothing, unfortunately.  </p>
