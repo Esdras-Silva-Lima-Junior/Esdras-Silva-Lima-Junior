@@ -44,7 +44,8 @@
 
 <div align="center"> 
 
-<a href="https://github.com/Esdras-Silva-Lima-Junior">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esdras-Silva-Lima-Junior&show_icons=true&theme=dracula)</a>  
+<a href="https://github.com/Esdras-Silva-Lima-Junior">[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Esdras-Silva-Lima-Junior&show_icons=true&theme=dracula&custom_title=GitHub&custom_icon=https://github.com/anuraghazra/github-readme-stats/blob/master/assets/GitHub-Mark-64px.png)](https://github.com/anuraghazra/github-readme-stats)
+</a>  
 <a href="https://github.com/Esdras-Silva-Lima-Junior">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras-Silva-Lima-Junior&layout=compact&theme=dracula)](https://github.com/Esdras-Silva-Lima-Junior/github-readme-stats)</a>
 
 </div>
